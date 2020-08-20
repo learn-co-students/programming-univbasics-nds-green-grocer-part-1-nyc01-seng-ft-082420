@@ -39,4 +39,5 @@ def consolidate_cart(cart)
        new_cart << grocery
      end
   end
+  new_cart
 end
